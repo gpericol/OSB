@@ -9,7 +9,7 @@ Before you begin, ensure you have Python installed on your system.
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/username/open-security-bulletin.git
+git clone https://github.com/gpericol/OSB.git
 ```
 
 2. Navigate to the cloned directory.
